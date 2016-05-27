@@ -3,7 +3,7 @@
 const Home = Vue.extend({
    template: ["<p class='active'>This is home page.</p>",
    "<div class='jumbotron'><p>Image carousel goes here</p></div>",
-   "<h5>Welcome to Lubaan</h5>"].join('\n')
+   "<h5>Welcome to Arabia Tours</h5>"].join('\n')
 });
 const About = Vue.extend({
    template: "<p>This is about page.</p>" 
