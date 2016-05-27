@@ -1,0 +1,10 @@
+.container{
+   border: 0.1em solid black;
+   margin-top: 10px;
+}
+.jumbotron{
+    margin-top: 15px;
+}
+#router{
+    margin-top: 70px;
+}
